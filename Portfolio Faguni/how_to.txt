@@ -1,0 +1,4 @@
+1. download the repo
+	 git clone https://github.com/TanvirRashidDon/tanvirrashiddon.github.io.git
+	
+2. 
